@@ -28,7 +28,8 @@ pages:
   -  Points of interest: 
       - 'WeatherStation'       : 'PointOfInterest/WeatherStation/doc/spec.md'
       - 'AirQualityStation'    : 'PointOfInterest/AirQualityStation/doc/spec.md'
-  -  'Issue Tracking'          : 'IssueTracking/doc/introduction.md'
+  -  'Civic Issue Tracking'    : 'IssueTracking/doc/introduction.md'
+      - 'ServiceRequest'       : 'IssueTracking/ServiceRequest/doc/spec.md'
   -  Device                    : 'Sensor/doc/introduction.md'
   -  'Street Lighting':
       - 'Introduction'         : 'StreetLighting/doc/introduction.md'
