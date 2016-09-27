@@ -39,6 +39,10 @@ pages:
       - 'StreetlightModel'          : 'StreetLighting/StreetlightModel/doc/spec.md'
       - 'StreetlightGroup'          : 'StreetLighting/StreetlightGroup/doc/spec.md'
       - 'StreetlightControlCabinet' : 'StreetLighting/StreetlightControlCabinet/doc/spec.md'
+  - `Vehicle'
+      - 'Introduction'         : 'Vehicle/doc/introduction.md'
+      - 'Vehicle'              : 'Vehicle/Vehicle/doc/spec.md'
+      - 'VehicleModel'         : 'Vehicle/VehicleModel/doc/spec.md'
   -  Weather:
       - 'WeatherObserved'      : 'Weather/WeatherObserved/doc/spec.md'
       - 'WeatherForecast'      : 'Weather/WeatherForecast/doc/spec.md'
